@@ -1,4 +1,3 @@
-// const arrow = document.querySelectorAll('.fa-chevron-down');
 const questionContainer = document.querySelectorAll('.col-12');
 
 questionContainer.forEach((questionCont)=>{
